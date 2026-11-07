@@ -1,0 +1,1 @@
+var e={sobre:null,avaliacoes:[],googlePerfil:``,googleAvaliar:``,plausibleDominio:``};export{e as t};
