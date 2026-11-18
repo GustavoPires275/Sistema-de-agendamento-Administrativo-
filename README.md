@@ -20,6 +20,9 @@ A agenda era controlada por mensagens no WhatsApp. Isso gerava horário perdido,
 - Lista de espera, convites e página de privacidade
 
 **Painel administrativo** (`/admin`)
+
+<p align="center"><img src="docs/painel.jpg" alt="Painel administrativo da Manuhbarbers" width="100%"></p>
+
 - **Agenda** do dia e da semana, **clientes** e **lista de espera**
 - **Equipe e colaboradores**, com **remuneração** e **ganhos** por profissional
 - **Financeiro** e **relatórios**
